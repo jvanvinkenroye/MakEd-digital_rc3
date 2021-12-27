@@ -25,7 +25,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"universum"
+                 "value":"bbb:\/\/maked\/universum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"universum"
+                 "value":"bbb:\/\/maked\/universum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -154,24 +154,6 @@
          "height":34,
          "id":17,
          "name":"start",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":46,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 309, 309, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 309, 309, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":34,
-         "id":65,
-         "name":"start_makerspace",
          "opacity":1,
          "properties":[
                 {
@@ -343,6 +325,12 @@
  "nextlayerid":71,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Uni Stuttgart - maked - Universum"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -350,11 +338,17 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/tilesets_deviant_milkian_1.png",
+         "image":"Tiles\/used\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -768,7 +762,7 @@
                  "id":78,
                  "properties":[
                         {
-                         "name":" collides",
+                         "name":"collides",
                          "type":"bool",
                          "value":false
                         }]
@@ -786,7 +780,7 @@
                  "id":97,
                  "properties":[
                         {
-                         "name":" collides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1461,11 +1455,17 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/floortileset.png",
+         "image":"Tiles\/used\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1718,11 +1718,17 @@
         {
          "columns":48,
          "firstgid":321,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Universum_makerspace.png",
+         "image":"Tiles\/used\/Universum_makerspace.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
          "name":"Universum_makerspace",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":768,
          "tileheight":32,
@@ -1730,11 +1736,6 @@
                 {
                  "id":0,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -1745,11 +1746,6 @@
                  "id":1,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -1758,11 +1754,6 @@
                 {
                  "id":2,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -1773,11 +1764,6 @@
                  "id":3,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -1786,11 +1772,6 @@
                 {
                  "id":4,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -1827,11 +1808,6 @@
                 {
                  "id":8,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -2265,11 +2241,6 @@
                  "id":56,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -2278,11 +2249,6 @@
                 {
                  "id":57,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -2293,11 +2259,6 @@
                  "id":58,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -2306,11 +2267,6 @@
                 {
                  "id":59,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -2321,11 +2277,6 @@
                  "id":60,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -2334,11 +2285,6 @@
                 {
                  "id":61,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -3122,11 +3068,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3175,11 +3116,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3198,11 +3134,6 @@
                  "id":147,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3212,11 +3143,6 @@
                  "id":148,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3225,11 +3151,6 @@
                 {
                  "id":149,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -3496,11 +3417,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -3688,11 +3604,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -3792,11 +3703,6 @@
                  "id":192,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3805,11 +3711,6 @@
                 {
                  "id":193,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -3829,11 +3730,6 @@
                  "id":195,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3842,11 +3738,6 @@
                 {
                  "id":196,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -3857,11 +3748,6 @@
                  "id":197,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3871,11 +3757,6 @@
                  "id":198,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -3884,11 +3765,6 @@
                 {
                  "id":199,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -4050,11 +3926,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -4063,11 +3934,6 @@
                 {
                  "id":213,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -4289,11 +4155,6 @@
                  "id":229,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -4436,11 +4297,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -4485,11 +4341,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -4508,11 +4359,6 @@
                  "id":243,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -4522,11 +4368,6 @@
                  "id":244,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -4535,11 +4376,6 @@
                 {
                  "id":245,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -4585,11 +4421,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -4633,11 +4464,6 @@
                      "y":0
                     },
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -4756,11 +4582,6 @@
                  "id":260,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -4804,11 +4625,6 @@
                      "y":0
                     },
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -5065,11 +4881,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -5196,11 +5007,6 @@
                  "id":291,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -5210,11 +5016,6 @@
                  "id":292,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -5223,11 +5024,6 @@
                 {
                  "id":293,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -5398,11 +5194,6 @@
                      "y":0
                     },
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -5731,11 +5522,6 @@
                  "id":339,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -5745,11 +5531,6 @@
                  "id":340,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -5758,11 +5539,6 @@
                 {
                  "id":341,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -6178,11 +5954,6 @@
                  "id":387,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -6192,11 +5963,6 @@
                  "id":388,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -6205,11 +5971,6 @@
                 {
                  "id":389,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -6625,11 +6386,6 @@
                  "id":435,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":false
@@ -6638,11 +6394,6 @@
                 {
                  "id":436,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -6653,11 +6404,6 @@
                  "id":437,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -6666,11 +6412,6 @@
                 {
                  "id":438,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -6681,11 +6422,6 @@
                  "id":439,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -6694,11 +6430,6 @@
                 {
                  "id":440,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -6709,11 +6440,6 @@
                  "id":441,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -6723,11 +6449,6 @@
                  "id":442,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -6736,11 +6457,6 @@
                 {
                  "id":443,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -7102,11 +6818,6 @@
                  "id":483,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -7116,11 +6827,6 @@
                  "id":484,
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -7129,11 +6835,6 @@
                 {
                  "id":485,
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":false
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -8001,11 +7702,6 @@
                     },
                  "properties":[
                         {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"collides",
                          "type":"bool",
                          "value":true
@@ -8069,11 +7765,6 @@
                      "y":0
                     },
                  "properties":[
-                        {
-                         "name":" collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"collides",
                          "type":"bool",
@@ -9873,11 +9564,17 @@
         {
          "columns":16,
          "firstgid":1089,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Pixle_floor-wall .png",
+         "image":"Tiles\/used\/Pixle_floor-wall .png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"Pixle_floor-wall ",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -9886,11 +9583,17 @@
         {
          "columns":16,
          "firstgid":1345,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/pixels_.png",
+         "image":"Tiles\/used\/pixels_.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"pixels_",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -10053,7 +9756,7 @@
         {
          "columns":1,
          "firstgid":1601,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/16_hockerkl.png",
+         "image":"Tiles\/used\/16_hockerkl.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -10061,16 +9764,32 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
          "columns":16,
          "firstgid":1602,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Pixels_AceSet-Hospital.png",
+         "image":"Tiles\/used\/Pixels_AceSet-Hospital.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"Pixels_AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -10197,11 +9916,17 @@
         {
          "columns":7,
          "firstgid":1858,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/own_outside.png",
+         "image":"Tiles\/used\/own_outside.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
          "name":"own_outside",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":49,
          "tileheight":32,
@@ -10316,11 +10041,17 @@
         {
          "columns":16,
          "firstgid":1907,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/rc3-mullana-objects.png",
+         "image":"Tiles\/used\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -10329,11 +10060,17 @@
         {
          "columns":7,
          "firstgid":2035,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/minideko.png",
+         "image":"Tiles\/used\/minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -10342,11 +10079,17 @@
         {
          "columns":20,
          "firstgid":2126,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/BAR.png",
+         "image":"Tiles\/used\/BAR.png",
          "imageheight":96,
          "imagewidth":650,
          "margin":0,
          "name":"BAR",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":60,
          "tileheight":32,
@@ -10391,7 +10134,7 @@
                  "id":48,
                  "properties":[
                         {
-                         "name":" collides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -10400,7 +10143,7 @@
                  "id":49,
                  "properties":[
                         {
-                         "name":" collides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -10410,11 +10153,17 @@
         {
          "columns":5,
          "firstgid":2186,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Bodenplatten.png",
+         "image":"Tiles\/used\/Bodenplatten.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
          "name":"Bodenplatten",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -10423,11 +10172,17 @@
         {
          "columns":2,
          "firstgid":2211,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/sculpure.png",
+         "image":"Tiles\/used\/sculpure.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"sculpure",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -10473,11 +10228,17 @@
         {
          "columns":2,
          "firstgid":2215,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Ducky.png",
+         "image":"Tiles\/used\/Ducky.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"Ducky",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -10486,11 +10247,17 @@
         {
          "columns":2,
          "firstgid":2219,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Ducky1.png",
+         "image":"Tiles\/used\/Ducky1.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"Ducky1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -10499,11 +10266,17 @@
         {
          "columns":2,
          "firstgid":2223,
-         "image":"..\/..\/MakEd-digital\/Tiles\/used\/Ducky3.png",
+         "image":"Tiles\/used\/Ducky3.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"Ducky3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
