@@ -43,7 +43,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"bbb:\/\/maked\/universum"
+                 "value":"bbb:\/\/Maked\/universum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"bbb:\/\/maked\/universum"
+                 "value":"bbb:\/\/Maked\/universum"
                 }],
          "type":"tilelayer",
          "visible":true,
