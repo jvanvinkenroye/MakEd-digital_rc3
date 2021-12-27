@@ -1,7 +1,4 @@
-# WorkAdventure Map Starter Kit
+# Uni Stuttgart Projekt Maked - Digital
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-s
-
+Map für die den rc3_2021 in der 2d - World
