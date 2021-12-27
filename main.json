@@ -10511,8 +10511,12 @@
         }, 
         {
          "firstgid":2227,
+<<<<<<< HEAD
          "source":"Tiles\/used\/cert_safety_set.tsx",
          "name":"ert_safety_set",
+=======
+         "source":"Tiles\/used\/cert_safety_set.tsx"
+>>>>>>> parent of ba5eeac (Update main.json)
         }, 
         {
          "firstgid":2259,
