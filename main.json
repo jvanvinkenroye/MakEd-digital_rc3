@@ -10508,11 +10508,6 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":2250,
-         "source":"rc3-mullana-objects Kopie.tsx",
-         "name":"c3-mullana-objects Kopie"
         }],
  "tilewidth":32,
  "type":"map",
