@@ -46,7 +46,7 @@
                         {
                          "name":"bbbRoom",
                          "type":"string",
-                         "value":"bbb:\/\/Maked\/universum"
+                         "value":" https:\/\/rc3.world\/2021\/room\/universum\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -82,7 +82,7 @@
                         {
                          "name":"bbbRoom",
                          "type":"string",
-                         "value":"bbb:\/\/Maked\/universum"
+                         "value":" https:\/\/rc3.world\/2021\/room\/universum\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
