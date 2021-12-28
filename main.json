@@ -69,7 +69,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"klo"
+                         "value":"shared-GlobalPhonebooth"
                         }, 
                         {
                          "name":"jitsiTrigger",
